@@ -1,2 +1,4 @@
 # Trying-out-Website-Making
-I wanted to recreate the interfaces of my favorite companies, so I made this.
+I wanted to recreate the interfaces of the companies i look up to, so I made this.
+
+
